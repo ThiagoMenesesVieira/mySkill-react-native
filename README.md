@@ -16,7 +16,7 @@ This project was developed with:
   - Properties
   - State
   - Immutability
-  - Hooks]
+  - Hooks
   - Style
 - [TypeScript](https://www.typescriptlang.org/)
   
