@@ -21,4 +21,4 @@ This project was developed with:
 - [TypeScript](https://www.typescriptlang.org/)
   
 ---
-Make with ♥ by Thiago Meneses <img src="https://img.icons8.com/officexs/16/000000/linkedin.png"/> [Linkedin](https://www.linkedin.com/in/thiago-meneses-vieira-7aa8922a/).
+Made with ♥ by Thiago Meneses <img src="https://img.icons8.com/officexs/16/000000/linkedin.png"/> [Linkedin](https://www.linkedin.com/in/thiago-meneses-vieira-7aa8922a/).
